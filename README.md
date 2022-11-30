@@ -1,6 +1,6 @@
 ## Hi 👋 I'm a Full Stack Software Engineer
 
-I am a Full Stack Software Engineer with a longstanding love for everything tech. I currently work as a Full Stack Software Engineer in what I absolutely love: JavaScript, Node.js, Ruby, Python, C#. My goal is to join a team of similarly passionate developers in a long-term role where I can help others, always be learning, and apply my existing skillset to new challenges as we all continue to master the art of software development.
+I am a Full Stack Software Engineer with a longstanding love for everything tech. I currently work as a Full Stack Software Engineer in what I absolutely love: JavaScript, Vue, React, Node.js, Ruby, Python, C#. My goal is to join a team of similarly passionate developers in a long-term role where I can help others, always be learning, and apply my existing skillset to new challenges as we all continue to master the art of software development.
 
 ### Languages and Tools: 
 
