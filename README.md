@@ -1,6 +1,6 @@
 ## Hi 👋 I'm a Full Stack Software Engineer
 
-I am a Full Stack Software Engineer with a longstanding love for everything tech. I currently work as a Full Stack Software Engineer in what I absolutely love: JavaScript, React, React Native, Node.js, Ruby, PHP and GraphQL. I’m involved in the entire process of software development, from initial conception to development, testing, implementation, and maintenance. I love the logic and structure of coding and always strive to write elegant and efficient code. I also strive to keep up with the latest trends in web development.
+I am a Full Stack Software Engineer with a longstanding love for everything tech. I currently work as a Full Stack Software Engineer in what I absolutely love: JavaScript, Node.js, Ruby, Python, C#. My goal is to join a team of similarly passionate developers in a long-term role where I can help others, always be learning, and apply my existing skillset to new challenges as we all continue to master the art of software development.
 
 ### Languages and Tools: 
 
@@ -21,6 +21,10 @@ I am a Full Stack Software Engineer with a longstanding love for everything tech
 "><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="https://jquery.org/license/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /></a>
+<a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
+
 
 
 <!--
